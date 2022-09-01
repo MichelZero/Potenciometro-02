@@ -10,6 +10,7 @@ int pinServo = 6;
 int valorMotor = 0;
 int valorPot;
 
+Servo motorServo;
 
 void setup() {
   // put your setup code here, to run once:
